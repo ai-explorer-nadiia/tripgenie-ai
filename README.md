@@ -47,4 +47,5 @@ cd ../backend-java
 ```
 
 📫 Contact
+
 Created by @ai-explorer-nadiia https://github.com/ai-explorer-nadiia/ — feel free to contribute or reach out!
