@@ -25,7 +25,7 @@ TripGenie AI is an AI-powered travel planner that generates personalized trip su
 
 ### 1. Clone the repository
 
-```bash
+```
 git clone https://github.com/ai-explorer-nadiia/tripgenie-ai.git
 cd tripgenie-ai
 ```
@@ -47,4 +47,4 @@ cd ../backend-java
 ```
 
 📫 Contact
-Created by @ai-explorer-nadiia — feel free to contribute or reach out!
+Created by @ai-explorer-nadiia https://github.com/ai-explorer-nadiia/ — feel free to contribute or reach out!
